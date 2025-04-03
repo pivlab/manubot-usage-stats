@@ -1,0 +1,19 @@
+name: manubot-usage-stats
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - ipython=9.*
+  - ipywidgets=8.*
+  - jupyterlab=4.3.*
+  - jupytext=1.16.*
+  - matplotlib=3.10.*
+  - numpy=2.2.*
+  - pandas=2.2.*
+  - pip
+  - python=3.12.*
+  - python-dotenv=1.1.*
+  - requests=2.32.*
+  - scipy=1.15.*
+  - seaborn=0.13.*
+
